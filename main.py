@@ -1,3 +1,5 @@
-print("hello.git")
-print("hello python")
-
+def calc(a, b):
+    print(a + b)
+    print(a - b)
+    print(a * b)
+    print(a/b)
